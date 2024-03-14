@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @the-great-loofah
+- <h1>👋 Hi, I’m @the-great-loofah </h1>
   - 👀 I’m interested in coding as a general practice, however I'm slowly developing an interest in understanding how the 'backend' and other unseen parts work aswell as creating foundational code that can be used dynamically by myself and others.
   - 🌱 I’m currently learning HTML, CSS, Javascript
   
